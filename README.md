@@ -1,1 +1,1 @@
-# Full-adder
+# Full-adder using verilog
